@@ -24,6 +24,11 @@ backdrop-filter:blur(10px);
 z-index:100;
 }
 
+section{
+padding:120px 10% 80px;
+scroll-margin-top:100px;
+}
+
 .logo{
 font-size:24px;
 font-weight:bold;
@@ -31,9 +36,8 @@ color:#00e5ff;
 }
 
 nav ul{
-display:flex;
-list-style:none;
-gap:20px;
+overflow-x:auto;
+white-space:nowrap;
 }
 
 nav a{
@@ -48,7 +52,14 @@ align-items:center;
 justify-content:space-between;
 padding:120px 10%;
 }
-
+.hero{
+display:flex;
+flex-direction:column;
+align-items:center;
+text-align:center;
+gap:20px;
+min-height:auto;
+}
 .hero span{
 color:#00e5ff;
 }
