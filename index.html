@@ -10,7 +10,12 @@
 
 <nav>
     <div class="logo">HeetDevLab</div>
-    <ul>
+
+    <div class="menu-btn" onclick="toggleMenu()">
+        ☰
+    </div>
+
+    <ul id="nav-links">
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#skills">Skills</a></li>
@@ -159,4 +164,18 @@ Instagram
 </footer>
 
 </body>
+    <script>
+function toggleMenu() {
+    document.getElementById("nav-links")
+        .classList.toggle("active");
+}
+        const links = document.querySelectorAll("#nav-links a");
+
+links.forEach(link => {
+    link.addEventListener("click", () => {
+        document.getElementById("nav-links")
+            .classList.remove("active");
+    });
+});
+    </script>
 </html>
