@@ -115,7 +115,25 @@ padding:25px;
 border-radius:20px;
 margin-bottom:20px;
 }
+.contact-icons{
+display:flex;
+gap:20px;
+flex-wrap:wrap;
+}
 
+.contact-icons a{
+padding:12px 24px;
+background:#1e293b;
+border-radius:12px;
+text-decoration:none;
+color:white;
+border:1px solid #00e5ff33;
+}
+
+.contact-icons a:hover{
+background:#00e5ff;
+color:black;
+}
 .grid{
 display:grid;
 grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
