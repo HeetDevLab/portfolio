@@ -135,7 +135,24 @@ display:grid;
 grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
 gap:15px;
 }
+.achievement-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+gap:20px;
+}
 
+.achievement-card{
+background:#1e293b;
+padding:25px;
+border-radius:20px;
+text-align:center;
+transition:.3s;
+}
+
+.achievement-card:hover{
+transform:translateY(-5px);
+box-shadow:0 0 20px rgba(0,229,255,.3);
+}
 footer{
 padding:20px;
 text-align:center;
