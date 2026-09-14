@@ -1,181 +1,293 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Heet Shah | Portfolio</title>
-<link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Heet Shah — Android Developer, BCA Student and founder of HeetDevLab.">
+    <title>Heet Shah | Android Developer</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <nav>
-    <div class="logo">Heet Shah</div>
+    <a class="logo" href="#home">Heet<span>DevLab</span></a>
 
-    <div class="menu-btn" onclick="toggleMenu()">
-        ☰
-    </div>
+    <button class="menu-btn" id="menu-btn" aria-label="Open navigation" aria-expanded="false">☰</button>
 
     <ul id="nav-links">
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#skills">Skills</a></li>
         <li><a href="#projects">Projects</a></li>
-        <li><a href="#resume">Resume</a></li>
+        <li><a href="#journey">Journey</a></li>
         <li><a href="#contact">Contact</a></li>
     </ul>
 </nav>
 
-<section id="home" class="hero">
-    <div class="hero-text">
-        <h1>Hi, I'm <span>Heet Shah</span></h1>
-        <h2>Android Developer & BCA Student</h2>
-        <p>Founder of HeetDevLab. Building privacy-first Android security tools.</p>
+<main>
+    <section id="home" class="hero">
+        <div class="hero-glow glow-one"></div>
+        <div class="hero-glow glow-two"></div>
 
-        <a href="#projects" class="btn">Projects</a>
-        <a href="assets/resume.pdf" class="btn btn-outline" download>Resume</a>
-    </div>
+        <div class="hero-content reveal">
+            <div class="eyebrow"><span class="status-dot"></span> Building privacy-first products</div>
+            <h1>Hi, I'm <span>Heet Shah</span></h1>
+            <h2>Android Developer <b>·</b> BCA Student <b>·</b> Builder</h2>
+            <p class="hero-description">
+                I build practical Android and web products with a focus on
+                <strong>security, privacy and clean user experiences.</strong>
+            </p>
 
-    <div class="hero-image">
-        <img src="assets/profile.png" alt="Profile">
-    </div>
-</section>
+            <div class="hero-actions">
+                <a href="#projects" class="btn">Explore Projects <span>↗</span></a>
+                <a href="assets/resume.pdf" class="btn btn-outline" download>Download Resume</a>
+            </div>
 
-<section id="about">
-    <h2>About Me</h2>
-    <div class="card">
-        <p>
-            I'm a BCA student from Bhavnagar and founder of HeetDevLab.
-            I enjoy Android development, cybersecurity, AI and building useful products.
-        </p>
-    </div>
-</section>
+            <div class="quick-links">
+                <a href="https://github.com/HeetDevLab" target="_blank" rel="noopener">GitHub ↗</a>
+                <a href="mailto:heets85520@gmail.com">Email ↗</a>
+            </div>
+        </div>
 
-<section id="skills">
-    <h2>Skills</h2>
+        <div class="hero-image reveal">
+            <div class="image-ring"></div>
+            <img src="assets/profile.png" alt="Heet Shah profile">
+            <div class="floating-card card-top">🛡️ Privacy First</div>
+            <div class="floating-card card-bottom">⚡ Always Building</div>
+        </div>
 
-    <div class="grid">
-        <div class="card">HTML</div>
-        <div class="card">CSS</div>
-        <div class="card">JavaScript</div>
-        <div class="card">Python</div>
-        <div class="card">C</div>
-        <div class="card">Kotlin</div>
-        <div class="card">Android Studio</div>
-        <div class="card">GitHub</div>
-    </div>
-</section>
+        <a class="scroll-hint" href="#about">Scroll to explore <span>↓</span></a>
+    </section>
 
-<section id="projects">
-    <h2>Projects</h2>
+    <section id="about">
+        <div class="section-heading reveal">
+            <span class="section-number">01</span>
+            <div>
+                <p class="kicker">WHO I AM</p>
+                <h2>About Me</h2>
+            </div>
+        </div>
 
-    <div class="project-card">
-    <h3>🛡 Sentinex</h3>
-    <p>Privacy-first Android security application.</p>
+        <div class="about-grid">
+            <div class="card about-main reveal">
+                <p class="lead">
+                    I'm a <span>BCA student from Bhavnagar</span> and the founder of
+                    <span>HeetDevLab</span>.
+                </p>
+                <p>
+                    I enjoy turning ideas into useful products — especially Android
+                    applications, cybersecurity tools, web utilities and AI-powered
+                    experiences. I'm continuously learning by building real projects.
+                </p>
+                <div class="about-tags">
+                    <span>Android</span><span>Cybersecurity</span><span>AI</span><span>Web</span>
+                </div>
+            </div>
 
-    <div class="project-buttons">
-        <a href="https://heetdevlab.github.io/Sentinex/" target="_blank">
-            View Project
-        </a>
+            <div class="stats-grid reveal">
+                <div class="stat-card"><strong>03+</strong><span>Projects</span></div>
+                <div class="stat-card"><strong>08</strong><span>Core Skills</span></div>
+                <div class="stat-card"><strong>01</strong><span>Developer Lab</span></div>
+                <div class="stat-card"><strong>∞</strong><span>Ideas to Build</span></div>
+            </div>
+        </div>
+    </section>
 
-        <a href="https://github.com/HeetDevLab/Sentinex" target="_blank">
-            GitHub
-        </a>
-    </div>
-</div>
+    <section id="skills">
+        <div class="section-heading reveal">
+            <span class="section-number">02</span>
+            <div>
+                <p class="kicker">MY TOOLKIT</p>
+                <h2>Skills</h2>
+            </div>
+        </div>
 
-    <div class="project-card">
-    <h3>🔐 WebTools</h3>
-    <p>Password Generator, Secure Notes & Hash Tools.</p>
+        <div class="skills-layout">
+            <div class="skill-card reveal">
+                <div class="skill-icon">⌘</div>
+                <div><h3>Development</h3><p>Building interfaces and applications.</p></div>
+                <div class="skill-list">
+                    <span>HTML</span><span>CSS</span><span>JavaScript</span><span>Python</span><span>C</span>
+                </div>
+            </div>
 
-    <div class="project-buttons">
-        <a href="https://heetdevlab.github.io/Webtools/" target="_blank">
-            Open
-        </a>
-    </div>
-</div>
+            <div class="skill-card reveal">
+                <div class="skill-icon">◈</div>
+                <div><h3>Android</h3><p>Native Android development workflow.</p></div>
+                <div class="skill-list">
+                    <span>Kotlin</span><span>Android Studio</span><span>UI/UX</span>
+                </div>
+            </div>
 
-    <div class="project-card">
-        <h3>🤖 Nexora</h3>
-        <p>AI Assistant (Coming Soon)</p>
-    </div>
-</section>
-<section id="achievements">
+            <div class="skill-card reveal">
+                <div class="skill-icon">⌁</div>
+                <div><h3>Tools & Workflow</h3><p>Shipping, managing and improving projects.</p></div>
+                <div class="skill-list">
+                    <span>GitHub</span><span>Git</span><span>Problem Solving</span>
+                </div>
+            </div>
+        </div>
+    </section>
 
-<h2>Achievements</h2>
+    <section id="projects">
+        <div class="section-heading reveal">
+            <span class="section-number">03</span>
+            <div>
+                <p class="kicker">WHAT I'M BUILDING</p>
+                <h2>Featured Projects</h2>
+            </div>
+        </div>
 
-<div class="achievement-grid">
+        <div class="projects-grid">
+            <article class="project-card featured reveal">
+                <div class="project-number">01</div>
+                <div class="project-icon">🛡️</div>
+                <span class="project-label">ANDROID · SECURITY</span>
+                <h3>Sentinex</h3>
+                <p>Privacy-first Android security application designed around safer digital habits and useful security tools.</p>
+                <div class="project-tech"><span>Kotlin</span><span>Android</span><span>Security</span></div>
+                <div class="project-buttons">
+                    <a href="https://heetdevlab.github.io/Sentinex/" target="_blank" rel="noopener">View Project ↗</a>
+                    <a class="dark-btn" href="https://github.com/HeetDevLab/Sentinex" target="_blank" rel="noopener">GitHub ↗</a>
+                </div>
+            </article>
 
-<div class="achievement-card">
-🏆
-<h3>Sentinex</h3>
-<p>Built Android security application.</p>
-</div>
+            <article class="project-card reveal">
+                <div class="project-number">02</div>
+                <div class="project-icon">🔐</div>
+                <span class="project-label">WEB · UTILITIES</span>
+                <h3>WebTools</h3>
+                <p>A collection of useful browser-based utilities including password generation, secure notes and hash tools.</p>
+                <div class="project-tech"><span>HTML</span><span>CSS</span><span>JavaScript</span></div>
+                <div class="project-buttons">
+                    <a href="https://heetdevlab.github.io/Webtools/" target="_blank" rel="noopener">Open WebTools ↗</a>
+                </div>
+            </article>
 
-<div class="achievement-card">
-🌐
-<h3>WebTools</h3>
-<p>Created useful web utilities.</p>
-</div>
+            <article class="project-card coming reveal">
+                <div class="project-number">03</div>
+                <div class="project-icon">🤖</div>
+                <span class="project-label">AI · COMING SOON</span>
+                <h3>Nexora</h3>
+                <p>An AI assistant project currently in the making. More details will be revealed as development progresses.</p>
+                <div class="project-tech"><span>AI</span><span>Assistant</span><span>Next</span></div>
+                <div class="coming-badge">IN DEVELOPMENT</div>
+            </article>
+        </div>
+    </section>
 
-<div class="achievement-card">
-🚀
-<h3>HeetDevLab</h3>
-<p>Established personal developer brand.</p>
-</div>
+    <section id="journey">
+        <div class="section-heading reveal">
+            <span class="section-number">04</span>
+            <div>
+                <p class="kicker">MY PROGRESS</p>
+                <h2>Journey</h2>
+            </div>
+        </div>
 
-</div>
+        <div class="timeline">
+            <div class="timeline-item reveal">
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <span>2026 · NOW</span>
+                    <h3>Building HeetDevLab</h3>
+                    <p>Developing and showcasing privacy, security, web and AI projects while growing as a developer.</p>
+                </div>
+            </div>
+            <div class="timeline-item reveal">
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <span>PROJECT MILESTONE</span>
+                    <h3>Sentinex & WebTools</h3>
+                    <p>Turned ideas into working products and started building a public portfolio around them.</p>
+                </div>
+            </div>
+            <div class="timeline-item reveal">
+                <div class="timeline-dot"></div>
+                <div class="timeline-content">
+                    <span>LEARNING</span>
+                    <h3>BCA → Developer</h3>
+                    <p>Learning programming and software development by combining coursework with hands-on projects.</p>
+                </div>
+            </div>
+        </div>
+    </section>
 
-</section>
-<section id="resume">
-    <h2>Resume</h2>
+    <section id="achievements">
+        <div class="section-heading reveal">
+            <span class="section-number">05</span>
+            <div>
+                <p class="kicker">MILESTONES</p>
+                <h2>What I've Built</h2>
+            </div>
+        </div>
 
-    <div class="resume-card">
-        <p>Download my latest resume.</p>
-        <a href="assets/resume.pdf" class="btn" download>
-            Download Resume
-        </a>
-    </div>
-</section>
+        <div class="achievement-grid">
+            <div class="achievement-card reveal"><span>🏆</span><h3>Sentinex</h3><p>Built an Android security application.</p></div>
+            <div class="achievement-card reveal"><span>🌐</span><h3>WebTools</h3><p>Created useful browser-based utilities.</p></div>
+            <div class="achievement-card reveal"><span>🚀</span><h3>HeetDevLab</h3><p>Established a personal developer brand.</p></div>
+        </div>
+    </section>
 
-<section id="contact">
+    <section id="resume" class="resume-section">
+        <div class="resume-card reveal">
+            <div>
+                <p class="kicker">WANT THE DETAILS?</p>
+                <h2>Let's build something useful.</h2>
+                <p>Check out my resume for my skills, education and project experience.</p>
+            </div>
+            <a href="assets/resume.pdf" class="btn" download>Download Resume ↗</a>
+        </div>
+    </section>
 
-<h2>Contact</h2>
-
-<div class="contact-icons">
-
-<a href="https://github.com/HeetDevLab">
-GitHub
-</a>
-
-<a href="mailto:heets85520@gmail.com">
-Email
-</a>
-
-<a href="https://instagram.com">
-Instagram
-</a>
-
-</div>
-
-</section>
+    <section id="contact">
+        <div class="contact-card reveal">
+            <p class="kicker">GET IN TOUCH</p>
+            <h2>Have an idea?</h2>
+            <p>Let's connect and turn it into something real.</p>
+            <div class="contact-actions">
+                <a class="btn" href="mailto:heets85520@gmail.com">Email Me ↗</a>
+                <a class="btn btn-outline" href="https://github.com/HeetDevLab" target="_blank" rel="noopener">GitHub ↗</a>
+                <a class="btn btn-outline" href="https://instagram.com" target="_blank" rel="noopener">Instagram ↗</a>
+            </div>
+        </div>
+    </section>
+</main>
 
 <footer>
-    <p>Built with ❤️ by Heet Shah | © 2026 HeetDevLab</p>
+    <div class="footer-brand">Heet<span>DevLab</span></div>
+    <p>Built with <span>♥</span> by Heet Shah · © 2026 HeetDevLab</p>
 </footer>
 
-</body>
-    <script>
-function toggleMenu() {
-    document.getElementById("nav-links")
-        .classList.toggle("active");
-}
-        const links = document.querySelectorAll("#nav-links a");
+<script>
+const menuBtn = document.getElementById("menu-btn");
+const navLinks = document.getElementById("nav-links");
 
-links.forEach(link => {
+menuBtn.addEventListener("click", () => {
+    const open = navLinks.classList.toggle("active");
+    menuBtn.setAttribute("aria-expanded", open);
+    menuBtn.textContent = open ? "×" : "☰";
+});
+
+document.querySelectorAll("#nav-links a").forEach(link => {
     link.addEventListener("click", () => {
-        document.getElementById("nav-links")
-            .classList.remove("active");
+        navLinks.classList.remove("active");
+        menuBtn.setAttribute("aria-expanded", "false");
+        menuBtn.textContent = "☰";
     });
 });
-    </script>
+
+const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) {
+            entry.target.classList.add("show");
+            observer.unobserve(entry.target);
+        }
+    });
+}, { threshold: 0.12 });
+
+document.querySelectorAll(".reveal").forEach(el => observer.observe(el));
+</script>
+
+</body>
 </html>
