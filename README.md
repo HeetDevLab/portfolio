@@ -196,12 +196,7 @@ flowchart LR
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HeetDevLab&bg_color=050B14&color=13CFE5&line=13CFE5&point=ffffff&area=true&area_color=13CFE5&hide_border=true&title_color=13CFE5" width="100%"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=HeetDevLab&theme=onedark&no-frame=true&no-bg=true&row=7&margin-w=10" />
-
+<img src="https://ghchart.rshah.org/13CFE5/HeetDevLab" alt="Contribution graph" width="100%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,50:13CFE5,100:050B14&height=2" width="100%"/>
