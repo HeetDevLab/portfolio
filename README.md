@@ -54,7 +54,7 @@ This repository contains my personal developer portfolio, showcasing my projects
 
 **Programming**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
 
 **Web**
 
