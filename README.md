@@ -1,71 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:071525,50:0b2635,100:13CFE5&text=HEET%20SHAH&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Android%20Developer%20%7C%20BCA%20Student%20%7C%20HeetDevLab&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:050B14,45:0B3440,100:13CFE5&text=HEET%20SHAH&fontSize=60&fontColor=ffffff&fontAlignY=42&desc=Android%20Developer%20%7C%20BCA%20Student%20%7C%20HeetDevLab&descAlignY=65&descSize=18&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=13CFE5&center=true&vCenter=true&width=760&height=45&lines=%F0%9F%93%B1+Building+Android+Applications;%F0%9F%9B%A0%EF%B8%8F+Creating+Useful+Web+Tools;%F0%9F%A4%96+Exploring+AI+Applications;%F0%9F%9A%80+Turning+Ideas+Into+Software;%F0%9F%93%9A+Learning+Through+Real+Projects" alt="Typing animation"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=13CFE5&center=true&vCenter=true&width=700&lines=Building+Android+Applications;Creating+Useful+Web+Tools;Learning+Through+Real+Projects;Exploring+AI+Applications;Turning+Ideas+Into+Software" />
+<a href="https://heetdevlab.github.io/portfolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_LIVE%20PORTFOLIO-13CFE5?style=for-the-badge" /></a>
+<a href="https://github.com/HeetDevLab"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://youtube.com/@heetplayscode"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 <br><br>
 
-<a href="https://heetdevlab.github.io/portfolio/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20LIVE%20PORTFOLIO-13CFE5?style=for-the-badge" /></a>
-<a href="https://github.com/HeetDevLab"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=HeetDevLab&label=Profile%20Views&color=13CFE5&style=for-the-badge" alt="Views"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,50:13CFE5,100:050B14&height=2" width="100%"/>
 
 ## 👋 Hello, I'm Heet
 
-I'm **Heet Shah**, a BCA student and independent developer from **Bhavnagar, Gujarat**.
+I'm **Heet Shah**, a BCA student and independent developer from **Bhavnagar, Gujarat** 🇮🇳
 
-I enjoy building practical software projects and learning by creating real things.
+I enjoy building practical software projects and learning by creating real things. Everything I build lives under **HeetDevLab**.
 
-### What I enjoy building
+<div align="center">
 
-- 📱 Android applications
-- 🌐 Web projects
-- 🛠️ Browser-based utilities
-- 🤖 AI application concepts
-- 🔐 Privacy-focused software
-- 💡 Independent software projects
+| 📱 Android Apps | 🌐 Web Projects | 🛠️ Browser Utilities |
+|:---:|:---:|:---:|
+| **🤖 AI Concepts** | **🔐 Privacy Software** | **💡 Indie Projects** |
 
-I build and maintain my projects under **HeetDevLab**.
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,50:13CFE5,100:050B14&height=2" width="100%"/>
 
 ## 🌐 About This Repository
 
-This repository contains my personal developer portfolio.
+This repository contains my personal developer portfolio, showcasing my projects, technical skills, development work, learning journey and developer profile.
 
-The portfolio showcases my:
+<div align="center">
 
-- Projects
-- Technical skills
-- Development work
-- Learning journey
-- Developer profile
+<a href="https://heetdevlab.github.io/portfolio/">
+<img src="https://img.shields.io/badge/OPEN%20LIVE%20PORTFOLIO-13CFE5?style=for-the-badge&logo=googlechrome&logoColor=050B14" />
+</a>
 
-🌐 **Live Portfolio:** https://heetdevlab.github.io/portfolio/
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,50:13CFE5,100:050B14&height=2" width="100%"/>
 
 ## ⚡ Tech Stack
 
 <div align="center">
 
-### Programming
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+**Programming**
 
-### Web
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
 
-### Android & Development
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,vscode,git,github" />
+**Web**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+**Android & Development**
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,vscode,git,github&theme=dark" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,50:13CFE5,100:050B14&height=2" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -73,21 +74,29 @@ The portfolio showcases my:
 
 **Privacy-focused Android application**
 
-Sentinex is an Android application focused on protecting selected apps and providing privacy-oriented features.
+Sentinex protects selected apps and provides privacy-oriented features.
 
-- 🔒 App Lock
-- 👤 Intruder Detection
-- 👻 Ghost Mode
-- 🔢 PIN protection
-- 🛡️ App protection features
+<div align="center">
 
-🌐 **Explore:** https://heetdevlab.github.io/Sentinex/
+| 🔒 App Lock | 👤 Intruder Detection | 👻 Ghost Mode | 🔢 PIN Protection | 🛡️ App Protection |
+|:---:|:---:|:---:|:---:|:---:|
+
+<a href="https://heetdevlab.github.io/Sentinex/">
+<img src="https://img.shields.io/badge/EXPLORE%20SENTINEX-13CFE5?style=for-the-badge&logo=android&logoColor=050B14" />
+</a>
+
+</div>
 
 ---
 
 ### 🛠️ HeetDevLab WebTools
 
 A collection of useful browser-based utilities.
+
+<details>
+<summary><b>🔽 See all tools</b></summary>
+
+<br>
 
 - 🔑 Password Generator
 - 🔢 PIN Generator
@@ -97,110 +106,121 @@ A collection of useful browser-based utilities.
 - 🔐 JWT utilities
 - 🛡️ Password Strength Checker
 
-🌐 **Explore:** https://heetdevlab.github.io/WebTools/
+</details>
+
+<div align="center">
+
+<a href="https://heetdevlab.github.io/WebTools/">
+<img src="https://img.shields.io/badge/EXPLORE%20WEBTOOLS-13CFE5?style=for-the-badge&logo=githubpages&logoColor=050B14" />
+</a>
+
+</div>
 
 ---
 
 ### 🤖 Nexora
 
-**AI assistant project — currently in development**
+**AI assistant project, currently in development**
 
 Nexora explores ideas around AI interaction, task automation, scheduling, device interaction, memory and AI-assisted workflows.
 
 > 🚧 Nexora is currently a work in progress.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,50:13CFE5,100:050B14&height=2" width="100%"/>
 
 ## 🎓 Education
 
-**Bachelor of Computer Applications (BCA)**  
-Shree Swaminarayan College of Computer Science, Bhavnagar  
-Affiliated with MKBU University
+**Bachelor of Computer Applications (BCA)**
+🏫 Shree Swaminarayan College of Computer Science, Bhavnagar
+🎓 Affiliated with MKBU University
+
+<div align="center">
 
 | Semester | SGPA |
-|---|---:|
-| Semester 1 | **6.95** |
-| Semester 2 | **7.00** |
+|:---:|:---:|
+| 📘 Semester 1 | **6.95** |
+| 📗 Semester 2 | **7.00** |
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,50:13CFE5,100:050B14&height=2" width="100%"/>
 
 ## 📚 Current Learning
 
-```text
-Android Development
-        ↓
-Modern Web Development
-        ↓
-Kotlin & Application Development
-        ↓
-AI Applications
-        ↓
-Building Larger Software Projects
+```mermaid
+flowchart LR
+    A["📱 Android<br/>Development"] --> B["🌐 Modern Web<br/>Development"]
+    B --> C["🧩 Kotlin & App<br/>Development"]
+    C --> D["🤖 AI<br/>Applications"]
+    D --> E["🏗️ Larger Software<br/>Projects"]
+
+    classDef n fill:#071525,stroke:#13CFE5,stroke-width:2px,color:#ffffff
+    classDef last fill:#13CFE5,stroke:#ffffff,color:#050B14
+    class A,B,C,D n
+    class E last
 ```
 
 I continuously improve by building, testing, fixing and publishing projects.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,50:13CFE5,100:050B14&height=2" width="100%"/>
 
 ## 🔥 Development Philosophy
 
-<div align="center">
+```mermaid
+flowchart LR
+    A["💡 Idea"] --> B["🔨 Build"] --> C["🧪 Test"] --> D["🐛 Fix"] --> E["✨ Improve"] --> F["🚀 Publish"] --> G["📖 Learn"]
+    G -.->|"repeat"| A
 
-```text
-IDEA
- ↓
-BUILD
- ↓
-TEST
- ↓
-FIX
- ↓
-IMPROVE
- ↓
-PUBLISH
- ↓
-LEARN
+    classDef n fill:#071525,stroke:#13CFE5,stroke-width:2px,color:#ffffff
+    class A,B,C,D,E,F,G n
 ```
+
+<div align="center">
 
 ### Build first. Learn from it. Improve it.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,50:13CFE5,100:050B14&height=2" width="100%"/>
 
 ## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HeetDevLab&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeetDevLab&layout=compact&theme=github_dark&hide_border=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HeetDevLab&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&title_color=13CFE5&icon_color=13CFE5" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeetDevLab&layout=compact&theme=github_dark&hide_border=true&title_color=13CFE5" height="175"/>
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=HeetDevLab&theme=github-dark-blue&hide_border=true" />
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HeetDevLab&bg_color=050B14&color=13CFE5&line=13CFE5&point=ffffff&area=true&area_color=13CFE5&hide_border=true&title_color=13CFE5" width="100%"/>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=HeetDevLab&theme=onedark&no-frame=true&no-bg=true&row=7&margin-w=10" />
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,50:13CFE5,100:050B14&height=2" width="100%"/>
 
 ## 🌐 Connect
 
 <div align="center">
 
-<a href="https://heetdevlab.github.io/"><img src="https://img.shields.io/badge/HeetDevLab-13CFE5?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://heetdevlab.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://heetdevlab.github.io/"><img src="https://img.shields.io/badge/HeetDevLab-13CFE5?style=for-the-badge&logo=googlechrome&logoColor=050B14" /></a>
+<a href="https://heetdevlab.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=13CFE5" /></a>
 <a href="https://github.com/HeetDevLab"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://youtube.com/@heetplayscode"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:13CFE5,50:0b2635,100:071525&section=footer" width="100%"/>
-
-### 💙 Thanks for visiting my portfolio repository.
+### 💙 Thanks for visiting my portfolio repository
 
 **Heet Shah • HeetDevLab**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:13CFE5,50:0B3440,100:050B14&section=footer&animation=twinkling" width="100%"/>
 
 </div>
